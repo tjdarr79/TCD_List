@@ -1,0 +1,8 @@
+c:\users\travisd\documents\visual studio 2015\Projects\TCD_List\TCD_List\bin\Release\TCD_List.exe.config
+c:\users\travisd\documents\visual studio 2015\Projects\TCD_List\TCD_List\bin\Release\TCD_List.exe
+c:\users\travisd\documents\visual studio 2015\Projects\TCD_List\TCD_List\bin\Release\TCD_List.pdb
+c:\users\travisd\documents\visual studio 2015\Projects\TCD_List\TCD_List\obj\Release\TCD_List.Form1.resources
+c:\users\travisd\documents\visual studio 2015\Projects\TCD_List\TCD_List\obj\Release\TCD_List.Properties.Resources.resources
+c:\users\travisd\documents\visual studio 2015\Projects\TCD_List\TCD_List\obj\Release\TCD_List.csproj.GenerateResource.Cache
+c:\users\travisd\documents\visual studio 2015\Projects\TCD_List\TCD_List\obj\Release\TCD_List.exe
+c:\users\travisd\documents\visual studio 2015\Projects\TCD_List\TCD_List\obj\Release\TCD_List.pdb
